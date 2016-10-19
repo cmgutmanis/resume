@@ -39,17 +39,3 @@ Speaking
 * Milwaukee Code Slingers Meetup. Presented a talk and live demonstration of setting up a one-click deployment pipeline using Visual Studio, Travis CI, Git/Github, and Microsoft Azure. Also presented a number of topics in a 'lightning talks' format at various meetups.
 
 Languages, Frameworks, and Tools: C#/.NET; Visual Studio 2012 and newer; Microsoft SQL Server 2012 and newer; JavaScript; jQuery; KnockoutJS; Git/GitHub; SVN; JIRA; Trello.
-
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
