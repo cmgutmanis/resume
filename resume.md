@@ -33,14 +33,14 @@ C#/.NET; Visual Studio 2012 and newer; Microsoft SQL Server 2012 and newer; Java
 
 Other Experience
 --------------------
-Side/Hobby Projects
+**Side/Hobby Projects**
 * Poetry Messenger. Created a simple web shell that would use Twilio's SMS messaging API to send poems via text message. Currently planning to move to an app using Ionic and Cordova.
 
-Open Source
+**Open Source**
 * [Sitecore Courier.](https://github.com/adoprog/Sitecore-Courier)  Sitecore Courier is a utility created for Sitecore CMS developers to assist with data item migration between development environments. I extended the project and added a module to allow it to be environment-aware to support environment-specific build definitions.
 * [Crisis Checkin.](https://github.com/HTBox/crisischeckin)  Crisis checkin is an inventory management application for disaster relief efforts. I participated in a hackathon during a technical conference and made several minor enhancements, bugfixes, and feature additions. 
 
-Speaking
+**Speaking**
 * Milwaukee Code Slingers Meetup. Presented a talk and live demonstration of setting up a one-click deployment pipeline using Visual Studio, Travis CI, Git/Github, and Microsoft Azure. Also presented a number of topics in a 'lightning talks' format at various meetups.
 
 
