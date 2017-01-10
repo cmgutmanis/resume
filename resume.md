@@ -30,6 +30,8 @@ Software engineer responsible for building and maintaining .NET web applications
 
 Other Experience
 --------------------
+Side/Hobby Projects
+* Poetry Messenger. Created a simple web shell that would use Twilio's SMS messaging API to send poems via text message. Currently planning to move to an app using Ionic and Cordova.
 
 Open Source
 * [Sitecore Courier.](https://github.com/adoprog/Sitecore-Courier)  Sitecore Courier is a utility created for Sitecore CMS developers to assist with data item migration between development environments. I extended the project and added a module to allow it to be environment-aware to support environment-specific build definitions.
