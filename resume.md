@@ -28,6 +28,9 @@ Software engineer responsible for building and maintaining .NET web applications
 * Contributed to a variety of products and implemented features using ASP.NET MVC, HTML5, DurandalJS, KnockoutJS, Silverlight, and ASP.NET Web Forms.
 * Frequently presented to development team on new technologies, language features, and implementation tips and tricks.
 
+**Languages, Frameworks, and Tools:** 
+C#/.NET; Visual Studio 2012 and newer; Microsoft SQL Server 2012 and newer; JavaScript; jQuery; KnockoutJS; Git/GitHub; SVN; JIRA; Trello.
+
 Other Experience
 --------------------
 Side/Hobby Projects
@@ -40,4 +43,4 @@ Open Source
 Speaking
 * Milwaukee Code Slingers Meetup. Presented a talk and live demonstration of setting up a one-click deployment pipeline using Visual Studio, Travis CI, Git/Github, and Microsoft Azure. Also presented a number of topics in a 'lightning talks' format at various meetups.
 
-**Languages, Frameworks, and Tools:** C#/.NET; Visual Studio 2012 and newer; Microsoft SQL Server 2012 and newer; JavaScript; jQuery; KnockoutJS; Git/GitHub; SVN; JIRA; Trello.
+
