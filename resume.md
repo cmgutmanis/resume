@@ -15,7 +15,7 @@ Experience
 Aurora Health Care *(April 2017-present)*
 * Build out and maintain Azure environment and assets (virtual machines, scale sets, app services, etc)
 * Introduce automation wherever possible into the application and infrastructure lifecycles (CI/CD, infrastructure as code, desired state configuration scripts)
-* Research and prototype new Azure offerings and evaluate if they make sense for Aurora's needs.
+* Research and prototype new Azure offerings and evaluate them for Aurora's needs.
 
 **Software Developer**
 
