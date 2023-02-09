@@ -9,9 +9,13 @@ Milwaukee, WI || 414.345.0090 || chris.gutmanis@gmail.com
 Experience
 ----------
 
+**Principal Consultant/Tech Lead**
+
+Rural Sourcing, Inc | July 2022-present
+
 **Senior Consultant/Tech Lead**
 
-Centare/Rural Sourcing, Inc | October 2018-Present  *(Centare was acquired by RSI in October 2021)*.
+Centare/Rural Sourcing, Inc | October 2018-July 2022  *(Centare was acquired by RSI in October 2021)*.
 * Serve as a player-coach for a variety of clients across different industries.
 * Projects included datacenter migrations from on-prem environments into Azure, a platform team creating a service catalog of cloud resources, a DevOps modernization effort with Site Reliability Engineering responsibilities, and leading the DevOps and cloud design and implementation phases for a greenfield distributed application.
 * Created internal and public-facing content covering topics such as right-sizing cloud infrastructure, infrastructure-as-code, and training on CI/CD.
