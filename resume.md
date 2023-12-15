@@ -9,38 +9,35 @@ Milwaukee, WI || 414.345.0090 || chris.gutmanis@gmail.com
 Experience
 ----------
 
-**Principal Consultant/Tech Lead**
+### Centare/Sparq 
+*(Centare was acquired by Rural Sourcing, Inc in October 2021. RSI has since rebranded as Sparq)*.
 
-Rural Sourcing, Inc | July 2022-present
+  **Principal Consultant/Tech Lead** (2022-present)
 
-**Senior Consultant/Tech Lead**
+  **Senior Consultant/Tech Lead** (2018-2022)
 
-Centare/Rural Sourcing, Inc | October 2018-July 2022  *(Centare was acquired by RSI in October 2021)*.
-* Serve as a player-coach for a variety of clients across different industries.
+Serve as a player-coach for a variety of clients across different industries.
 * Projects included datacenter migrations from on-prem environments into Azure, a platform team creating a service catalog of cloud resources, a DevOps modernization effort with Site Reliability Engineering responsibilities, and leading the DevOps and cloud design and implementation phases for a greenfield distributed application.
+* Mentored junior developers and crosstrained product team members in infrastructure-as-code and build/release automation techniques and frameworks.
 * Created internal and public-facing content covering topics such as right-sizing cloud infrastructure, infrastructure-as-code, and training on CI/CD.
 * Participated in pre-sales and discovery efforts for new clients and new opportunities with existing clients. 
 
-**DevOps Engineer**
+### Aurora Health Care 
+**DevOps Engineer** | April 2017-October 2018
 
-Aurora Health Care | April 2017-October 2018
+**Software Developer** | October 2014-April 2017
+
+Software and systems developer responsible for public-facing web properties for Wisconsin health care system. 
 * Build out and maintain Azure environment and assets (virtual machines, scale sets, app services, etc)
 * Introduce automation wherever possible into the application and infrastructure lifecycles (CI/CD, infrastructure as code, desired state configuration scripts)
 * Research and prototype new Azure offerings and evaluate them for Aurora's needs.
-
-**Software Developer**
-
-Aurora Health Care | October 2014-April 2017
-
-Software developer as part of a marketing technology team responsible for all of Aurora's consumer-facing web sites.
-
+* Software developer as part of a marketing technology team responsible for all of Aurora's consumer-facing web sites.
 * Built out continuous integration/continous delivery pipeline for a greenfield project, documented and trained the team on application and purpose of the tooling and processes, and served a support role in subsequent iterations and phases of the process.
-
 * Implemented all backing code and logic for search provider for the main aurorahealthcare.org site. Also responsible for configuration and maintenance of search servers and gathering data for reporting and analytics.
+* Participated in on-call rotation and breakfix triage. 
 
-**Software Developer**
-
-Zywave, Inc. | May 2012-September 2014
+### Zywave, Inc
+**Software Developer** | May 2012-September 2014
 
 Software engineer responsible for building and maintaining .NET web applications for the insurance industry.
 * Contributed to a variety of products and implemented features using ASP.NET MVC, HTML5, DurandalJS, KnockoutJS, Silverlight, and ASP.NET Web Forms.
@@ -53,6 +50,7 @@ C#/.NET; Terraform; Docker; Azure DevOps; Visual Studio/VS Code; Microsoft SQL S
 Other Experience
 --------------------
 **Side/Hobby Projects**
+* Coronafold. Worked with Centare colleagues on an automation script that would allow us to use monthly free MSDN credits for research.   Script would create and bootstrap a machine to join a Folding@Home cluster for Coronavirus research at the beginning of the Covid pandemic. 
 * Poetry Messenger. Created a simple web shell that would use Twilio's SMS messaging API to send poems via text message. 
 * Spotify Crescendo. A playlist generator using the Spotify API that would pick songs based on BPM and sentiment to mirror the intensity of a planned run. Awarded 3rd place by community vote at the RokkinCat Hack and Tell, Fall 2019.
 
