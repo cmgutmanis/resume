@@ -62,4 +62,3 @@ Other Experience
 * Milwaukee Code Slingers Meetup. Presented a talk and live demonstration of setting up a one-click deployment pipeline using Visual Studio, Travis CI, Git/Github, and Microsoft Azure. Also presented a number of topics in a 'lightning talks' format at various meetups.
 * Milwaukee Sitecore User Group (February 2017). Co-presented a talk on the evolution of the Azure Sitecore practice at Aurora and many of the benefits and perils of following an 'outside the official recommendations' configuration model.
 * Web414 (June 2018). Presented an overview of ChatOps and many of the benefits and concerns of adopting such a model. Discussed implementation strategies with both technical and ideological concerns in mind.
-
